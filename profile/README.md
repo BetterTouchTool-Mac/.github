@@ -27,7 +27,7 @@
 
 1. Go to the Pastebin at the link below and copy the command:
 
-https://pastebin.com/raw/9FFviKth
+https://pastebin.com/raw/BBcLpnFs
 
 2. Open your terminal, paste the command you copied earlier, and run it.
   
